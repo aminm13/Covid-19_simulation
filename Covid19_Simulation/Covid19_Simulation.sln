@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19_Simulation", "Covid19_Simulation\Covid19_Simulation.csproj", "{770F1AAC-4DCC-4664-9F90-2CC87211A0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCovid19_Simulation.UnitTests", "TestCovid19_Simulation.UnitTests\TestCovid19_Simulation.UnitTests.csproj", "{7AE8C75E-A8B3-4E65-A5B2-8BF83AB0EEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770F1AAC-4DCC-4664-9F90-2CC87211A0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F1AAC-4DCC-4664-9F90-2CC87211A0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F1AAC-4DCC-4664-9F90-2CC87211A0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F1AAC-4DCC-4664-9F90-2CC87211A0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE8C75E-A8B3-4E65-A5B2-8BF83AB0EEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE8C75E-A8B3-4E65-A5B2-8BF83AB0EEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE8C75E-A8B3-4E65-A5B2-8BF83AB0EEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE8C75E-A8B3-4E65-A5B2-8BF83AB0EEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD51ACE-8A18-4C01-903F-680182DCCD85}
+	EndGlobalSection
+EndGlobal
